@@ -6,7 +6,7 @@ from datetime import date, timedelta
 LATITUDE = "51.5"
 LONGITUDE = "-0.0"
 START_DATE = "2026-07-01"
-OUTPUT_FILE = "daily_weather_append.json"
+OUTPUT_FILE = "data/daily_weather_append.json"
 
 def get_end_date():
     """Yesterday = last fully complete day"""
