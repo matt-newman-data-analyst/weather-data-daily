@@ -1,1 +1,21 @@
-[]
+{
+  "latitude": 51.493847,
+  "longitude": 0.0,
+  "generationtime_ms": 0.034809112548828125,
+  "utc_offset_seconds": 3600,
+  "timezone": "Europe/London",
+  "timezone_abbreviation": "GMT+1",
+  "elevation": 4.0,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "\u00b0C"
+  },
+  "daily": {
+    "time": [
+      "2026-07-01"
+    ],
+    "temperature_2m_max": [
+      25.4
+    ]
+  }
+}
