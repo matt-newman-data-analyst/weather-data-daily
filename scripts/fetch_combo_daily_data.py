@@ -22,7 +22,7 @@ import requests
 
 START_DATE = "2026-07-01"  # fixed start date, does not change
 
-OUTPUT_PATH = Path("data/combo_daily_append.json")
+OUTPUT_PATH = Path("data/_combo_daily_append.json")
 
 LOCATIONS = [
     {"name": "London", "latitude": 51.5, "longitude": -0.0},
