@@ -22,6 +22,9 @@ https://archive-api.open-meteo.com/v1/archive?latitude=59.25&longitude=18.0&star
 ##berlin
 https://archive-api.open-meteo.com/v1/archive?latitude=52.5&longitude=13.5&start_date=1940-01-01&end_date=2026-06-30&daily=temperature_2m_max&timezone=auto
 
+##athens
+https://archive-api.open-meteo.com/v1/archive?latitude=38.0&longitude=23.75&start_date=1940-01-01&end_date=2026-06-30&daily=temperature_2m_max&timezone=auto
+
 
 ###
 daily updates with multiple geos
