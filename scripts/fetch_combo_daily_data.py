@@ -31,6 +31,7 @@ LOCATIONS = [
     {"name": "Edinburgh", "latitude": 56.0, "longitude": -3.25},
     {"name": "Madrid", "latitude": 40.5, "longitude": -3.75},
     {"name": "Stockholm", "latitude": 59.25, "longitude": 18.0},
+    {"name": "Berlin", "latitude": 52.5, "longitude": 13.5},
 ]
 
 ARCHIVE_URL = "https://archive-api.open-meteo.com/v1/archive"
