@@ -16,6 +16,9 @@ https://archive-api.open-meteo.com/v1/archive?latitude=56.0&longitude=-3.25&star
 ##madrid
 https://archive-api.open-meteo.com/v1/archive?latitude=40.5&longitude=-3.75&start_date=1940-01-01&end_date=2026-06-30&daily=temperature_2m_max&timezone=auto
 
+##stockholm
+https://archive-api.open-meteo.com/v1/archive?latitude=59.25&longitude=18.0&start_date=1940-01-01&end_date=2026-06-30&daily=temperature_2m_max&timezone=auto
+
 
 ###
 daily updates with multiple geos
