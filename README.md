@@ -19,6 +19,9 @@ https://archive-api.open-meteo.com/v1/archive?latitude=40.5&longitude=-3.75&star
 ##stockholm
 https://archive-api.open-meteo.com/v1/archive?latitude=59.25&longitude=18.0&start_date=1940-01-01&end_date=2026-06-30&daily=temperature_2m_max&timezone=auto
 
+##berlin
+https://archive-api.open-meteo.com/v1/archive?latitude=52.5&longitude=13.5&start_date=1940-01-01&end_date=2026-06-30&daily=temperature_2m_max&timezone=auto
+
 
 ###
 daily updates with multiple geos
