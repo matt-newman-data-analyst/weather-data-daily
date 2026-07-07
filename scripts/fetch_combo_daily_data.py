@@ -32,6 +32,12 @@ LOCATIONS = [
     {"name": "Madrid", "latitude": 40.5, "longitude": -3.75},
     {"name": "Stockholm", "latitude": 59.25, "longitude": 18.0},
     {"name": "Berlin", "latitude": 52.5, "longitude": 13.5},
+    {"name": "Dublin", "latitude": 53.5, "longitude": -6.25},
+    {"name": "Lisbon", "latitude": 38.75, "longitude": -9.25},
+    {"name": "Vienna", "latitude": 48.25, "longitude": 16.5},
+    {"name": "Warsaw", "latitude": 52.25, "longitude": 21.0},
+    {"name": "Oslo", "latitude": 60.0, "longitude": 10.75},
+    {"name": "Bern", "latitude": 47.0, "longitude": 7.5},
 ]
 
 ARCHIVE_URL = "https://archive-api.open-meteo.com/v1/archive"
