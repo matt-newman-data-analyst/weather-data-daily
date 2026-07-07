@@ -292,5 +292,257 @@
     "longitude": 13.5,
     "date": "2026-07-06",
     "temperature_2m_max": 19.2
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-07-01",
+    "temperature_2m_max": 19.1
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-07-02",
+    "temperature_2m_max": 17.6
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-07-03",
+    "temperature_2m_max": 21.6
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-07-04",
+    "temperature_2m_max": 20.7
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-07-05",
+    "temperature_2m_max": 22.3
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-07-06",
+    "temperature_2m_max": 23.8
+  },
+  {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-07-01",
+    "temperature_2m_max": 34.2
+  },
+  {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-07-02",
+    "temperature_2m_max": 39.9
+  },
+  {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-07-03",
+    "temperature_2m_max": 37.8
+  },
+  {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-07-04",
+    "temperature_2m_max": 38.5
+  },
+  {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-07-05",
+    "temperature_2m_max": 40.0
+  },
+  {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-07-06",
+    "temperature_2m_max": 36.5
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-07-01",
+    "temperature_2m_max": 35.1
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-07-02",
+    "temperature_2m_max": 28.7
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-07-03",
+    "temperature_2m_max": 27.4
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-07-04",
+    "temperature_2m_max": 27.7
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-07-05",
+    "temperature_2m_max": 26.4
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-07-06",
+    "temperature_2m_max": 24.7
+  },
+  {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-07-01",
+    "temperature_2m_max": 32.5
+  },
+  {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-07-02",
+    "temperature_2m_max": 26.1
+  },
+  {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-07-03",
+    "temperature_2m_max": 22.7
+  },
+  {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-07-04",
+    "temperature_2m_max": 20.2
+  },
+  {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-07-05",
+    "temperature_2m_max": 21.5
+  },
+  {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-07-06",
+    "temperature_2m_max": 21.6
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-07-01",
+    "temperature_2m_max": 21.0
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-07-02",
+    "temperature_2m_max": 16.3
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-07-03",
+    "temperature_2m_max": 19.8
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-07-04",
+    "temperature_2m_max": 20.3
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-07-05",
+    "temperature_2m_max": 18.7
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-07-06",
+    "temperature_2m_max": 17.0
+  },
+  {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-07-01",
+    "temperature_2m_max": 21.9
+  },
+  {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-07-02",
+    "temperature_2m_max": 25.1
+  },
+  {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-07-03",
+    "temperature_2m_max": 25.4
+  },
+  {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-07-04",
+    "temperature_2m_max": 26.9
+  },
+  {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-07-05",
+    "temperature_2m_max": 28.5
+  },
+  {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-07-06",
+    "temperature_2m_max": 28.7
   }
 ]
