@@ -1,4 +1,4 @@
-#updating
+# updating
 
 # for new cities - get declimal lat long then...
 
@@ -6,8 +6,6 @@
 # then amend open-meteo url, paste values (no leading or trailing spaces or other characters) into the json and commit
 
 # and for the daily update , only 1 place to amend and that's the .py file - then do a manual run
-
-
 
 
 
