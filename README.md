@@ -1,15 +1,15 @@
-# updating
+## updating
 
-# for new cities - get declimal lat long then...
+## for new cities - get declimal lat long then
 
-# one off backfill - pre 202607 - new json file in data section - safest to start with blank or brief dummy data version
-# then amend open-meteo url, paste values (no leading or trailing spaces or other characters) into the json and commit
+## one off backfill - pre 202607 - new json file in data section - safest to start with blank or brief dummy data version
+## then amend open-meteo url, paste values (no leading or trailing spaces or other characters) into the json and commit
 
-# and for the daily update , only 1 place to amend and that's the .py file - then do a manual run
+## and for the daily update , only 1 place to amend and that's the .py file - then do a manual run
 
 
 
-# weather-data-daily
+## weather-data-daily
 weather data test
 
 ##london uses greenwich
