@@ -38,6 +38,7 @@ LOCATIONS = [
     {"name": "Warsaw", "latitude": 52.25, "longitude": 21.0},
     {"name": "Oslo", "latitude": 60.0, "longitude": 10.75},
     {"name": "Bern", "latitude": 47.0, "longitude": 7.5},
+    {"name": "Athens", "latitude": 38.0, "longitude": 23.75}
 ]
 
 ARCHIVE_URL = "https://archive-api.open-meteo.com/v1/archive"
