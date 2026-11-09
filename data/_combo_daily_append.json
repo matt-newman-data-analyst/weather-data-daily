@@ -910,6 +910,13 @@
     "temperature_2m_max": 9.3
   },
   {
+    "location": "London",
+    "latitude": 51.5,
+    "longitude": -0.0,
+    "date": "2026-11-08",
+    "temperature_2m_max": 9.9
+  },
+  {
     "location": "Paris",
     "latitude": 49.0,
     "longitude": 2.0,
@@ -1818,6 +1825,13 @@
     "longitude": 2.0,
     "date": "2026-11-07",
     "temperature_2m_max": 8.9
+  },
+  {
+    "location": "Paris",
+    "latitude": 49.0,
+    "longitude": 2.0,
+    "date": "2026-11-08",
+    "temperature_2m_max": 8.5
   },
   {
     "location": "Rome",
@@ -2730,6 +2744,13 @@
     "temperature_2m_max": 17.8
   },
   {
+    "location": "Rome",
+    "latitude": 42.0,
+    "longitude": 12.5,
+    "date": "2026-11-08",
+    "temperature_2m_max": 16.7
+  },
+  {
     "location": "Edinburgh",
     "latitude": 56.0,
     "longitude": -3.25,
@@ -3638,6 +3659,13 @@
     "longitude": -3.25,
     "date": "2026-11-07",
     "temperature_2m_max": 10.6
+  },
+  {
+    "location": "Edinburgh",
+    "latitude": 56.0,
+    "longitude": -3.25,
+    "date": "2026-11-08",
+    "temperature_2m_max": 9.0
   },
   {
     "location": "Madrid",
@@ -4550,6 +4578,13 @@
     "temperature_2m_max": 17.0
   },
   {
+    "location": "Madrid",
+    "latitude": 40.5,
+    "longitude": -3.75,
+    "date": "2026-11-08",
+    "temperature_2m_max": 15.5
+  },
+  {
     "location": "Stockholm",
     "latitude": 59.25,
     "longitude": 18.0,
@@ -5458,6 +5493,13 @@
     "longitude": 18.0,
     "date": "2026-11-07",
     "temperature_2m_max": 3.6
+  },
+  {
+    "location": "Stockholm",
+    "latitude": 59.25,
+    "longitude": 18.0,
+    "date": "2026-11-08",
+    "temperature_2m_max": 3.4
   },
   {
     "location": "Berlin",
@@ -6370,6 +6412,13 @@
     "temperature_2m_max": 6.4
   },
   {
+    "location": "Berlin",
+    "latitude": 52.5,
+    "longitude": 13.5,
+    "date": "2026-11-08",
+    "temperature_2m_max": 5.8
+  },
+  {
     "location": "Dublin",
     "latitude": 53.5,
     "longitude": -6.25,
@@ -7278,6 +7327,13 @@
     "longitude": -6.25,
     "date": "2026-11-07",
     "temperature_2m_max": 10.6
+  },
+  {
+    "location": "Dublin",
+    "latitude": 53.5,
+    "longitude": -6.25,
+    "date": "2026-11-08",
+    "temperature_2m_max": 9.5
   },
   {
     "location": "Lisbon",
@@ -8190,6 +8246,13 @@
     "temperature_2m_max": 21.4
   },
   {
+    "location": "Lisbon",
+    "latitude": 38.75,
+    "longitude": -9.25,
+    "date": "2026-11-08",
+    "temperature_2m_max": 21.0
+  },
+  {
     "location": "Vienna",
     "latitude": 48.25,
     "longitude": 16.5,
@@ -9097,6 +9160,13 @@
     "latitude": 48.25,
     "longitude": 16.5,
     "date": "2026-11-07",
+    "temperature_2m_max": 9.2
+  },
+  {
+    "location": "Vienna",
+    "latitude": 48.25,
+    "longitude": 16.5,
+    "date": "2026-11-08",
     "temperature_2m_max": 9.2
   },
   {
@@ -10010,6 +10080,13 @@
     "temperature_2m_max": 6.2
   },
   {
+    "location": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21.0,
+    "date": "2026-11-08",
+    "temperature_2m_max": 6.1
+  },
+  {
     "location": "Oslo",
     "latitude": 60.0,
     "longitude": 10.75,
@@ -10918,6 +10995,13 @@
     "longitude": 10.75,
     "date": "2026-11-07",
     "temperature_2m_max": 0.9
+  },
+  {
+    "location": "Oslo",
+    "latitude": 60.0,
+    "longitude": 10.75,
+    "date": "2026-11-08",
+    "temperature_2m_max": -0.9
   },
   {
     "location": "Bern",
@@ -11830,6 +11914,13 @@
     "temperature_2m_max": 9.5
   },
   {
+    "location": "Bern",
+    "latitude": 47.0,
+    "longitude": 7.5,
+    "date": "2026-11-08",
+    "temperature_2m_max": 9.2
+  },
+  {
     "location": "Athens",
     "latitude": 38.0,
     "longitude": 23.75,
@@ -12738,5 +12829,12 @@
     "longitude": 23.75,
     "date": "2026-11-07",
     "temperature_2m_max": 15.0
+  },
+  {
+    "location": "Athens",
+    "latitude": 38.0,
+    "longitude": 23.75,
+    "date": "2026-11-08",
+    "temperature_2m_max": 14.1
   }
 ]
